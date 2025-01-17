@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+      "*.c": "c",
+      "*.h": "c"
+    },
+    "C_Cpp.default.includePath": [
+      "/usr/include",
+      "/usr/local/include",
+      "${workspaceFolder}/**"
+    ],
+    "C_Cpp.intelliSenseMode": "gcc-x64",
+    "terminal.integrated.defaultProfile.linux": "Ubuntu (WSL)",
+    "cmake.configureOnOpen": false
+}
